@@ -10,7 +10,7 @@
 
 2. 点击**UExcelReader/Open Edit Window**打开编辑页面，如下：
 
-   ![](http://url/README/editor_window.png)
+   ![](https://github.com/imagicbell/UExcelReader/blob/master/README/editor_window.png)
 
 
 
