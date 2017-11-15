@@ -1,0 +1,35 @@
+{
+    "PrefsList": [
+        {
+            "prefsName": "WordSleepConfig",
+            "combineClassName": "WordSleepConfig",
+            "InputPaths": [
+                "Assets/Examples/WordSleep.xlsx"
+            ],
+            "CodeOutputPath": "Assets/Examples/CodeOutput/WordSleepConfig.cs",
+            "DataOutputPath": "Assets/Examples/DataOutput/WordSleepConfig.bytes",
+            "ExportJson": true,
+            "ExportLua": true,
+            "ExportPartialClass": true,
+            "ShareClass": false
+        },
+        {
+            "prefsName": "ParentFAQConfig",
+            "combineClassName": "ParentFAQConfig",
+            "InputPaths": [
+                "Assets/Examples/ParentFAQ.xlsx",
+                "Assets/Examples/ParentFAQ_en.xlsx"
+            ],
+            "CodeOutputPath": "Assets/Examples/CodeOutput/ParentFAQConfig.cs",
+            "DataOutputPath": "Assets/Examples/DataOutput",
+            "ExportJson": false,
+            "ExportLua": false,
+            "ExportPartialClass": false,
+            "ShareClass": true
+        }
+    ],
+    "CacheInputDirectory": "Assets/Examples",
+    "CacheCodeOutputDirectory": "Assets/Examples/CodeOutput",
+    "CacheDataOutputDirectory": "Assets/Examples",
+    "Version": "1.0.0"
+}

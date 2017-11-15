@@ -1,0 +1,11 @@
+{
+	"Tool": "github.com/davyxu/tabtoy",
+	"Version": "2.8.4",
+	"WordSleep":[
+		{ "Key": 0, "SleepInterval": { "Day": 1, "Hour": 0, "Minute": 0, "Second": 0 } },
+		{ "Key": 1, "SleepInterval": { "Day": 2, "Hour": 0, "Minute": 0, "Second": 0 } },
+		{ "Key": 2, "SleepInterval": { "Day": 5, "Hour": 0, "Minute": 0, "Second": 0 } },
+		{ "Key": 3, "SleepInterval": { "Day": 8, "Hour": 0, "Minute": 0, "Second": 0 } },
+		{ "Key": 4, "SleepInterval": { "Day": 14, "Hour": 0, "Minute": 0, "Second": 0 } },
+		{ "Key": 5, "SleepInterval": { "Day": 31, "Hour": 0, "Minute": 0, "Second": 0 } }
+	]}
