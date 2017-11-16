@@ -31,7 +31,9 @@
      Debug.Log(">>>>>> config: " + cfg.WordSleep.Count);
    ```
 
-   ​
+### 限制
+暂时只支持Mac，后续会支持windows.
+
 
 ### 特别感谢
 
